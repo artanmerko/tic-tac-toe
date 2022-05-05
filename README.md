@@ -1,5 +1,5 @@
 # JavaScript PROJECT: tic-tac-toe
 ## Built With
-*HTML\.
-*CSS\. (Flexbox)
-*JavaScript\.
+*HTML\. <br>
+*CSS\. (Flexbox) <br>
+*JavaScript\.<br>
