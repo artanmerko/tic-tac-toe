@@ -1,2 +1,5 @@
-# tic-tac-toe
-JavaScript PROJECT: TIC TAC TOE : The Odin Project
+# JavaScript PROJECT: tic-tac-toe
+## Built With
+HTML
+CSS (Flexbox)
+JavaScript
