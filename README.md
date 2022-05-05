@@ -8,4 +8,4 @@ Tic-Tac-Toe JavaScript game is a simple example of games you can program in Java
 - CSS (Flexbox) <br>
 - JavaScript<br>
 
-[Live](https://artanmerko.github.io/tic-tac-toe/)
+#### [Live](https://artanmerko.github.io/tic-tac-toe/)
