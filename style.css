@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Rock+Salt|Shadows+Into+Light|Cedarville+Cursive');
+
 *, *::after, *::before {
   box-sizing: border-box;
 }
@@ -143,4 +145,18 @@ body {
 
 .winning-message.show {
   display: flex;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Rock Salt', cursive;
 }
